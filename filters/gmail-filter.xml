@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:apps="http://schemas.google.com/apps/2006">
+  <title>AI Newsletter Subinbox</title>
+  <entry>
+    <category term="filter"/>
+    <title>Newsletter routing</title>
+    <id>tag:mail.google.com,2008:filter:subinbox-newsletters</id>
+    <apps:property name="hasTheWord" value="{unsubscribe &quot;manage preferences&quot; &quot;view in browser&quot;}"/>
+    <apps:property name="label" value="Subinbox/Newsletters"/>
+    <apps:property name="shouldArchive" value="true"/>
+    <apps:property name="shouldNeverSpam" value="false"/>
+  </entry>
+</feed>
