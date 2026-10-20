@@ -4,7 +4,7 @@
 
 No terminal, packages, server, or code editing needed to install. You need a Google account **with Gmail**, a Gemini API key, and a desktop browser for the initial setup. Your computer can be off afterward.
 
-> **Model update:** this project uses `gemini-2.5-flash`, not the retired Gemini 1.5 Flash named in the original design. Google currently lists 2.5 Flash as supported. Model availability, free-tier eligibility, and quotas can change. See [model lifecycles](https://ai.google.dev/gemini-api/docs/deprecations) and [pricing](https://ai.google.dev/gemini-api/docs/pricing).
+> **Model:** this project uses `gemini-3.5-flash-lite`. Model availability, free-tier eligibility, and quotas can change. See [model lifecycles](https://ai.google.dev/gemini-api/docs/deprecations) and [pricing](https://ai.google.dev/gemini-api/docs/pricing).
 
 ## Setup in three steps
 

@@ -23,7 +23,7 @@
  * SOFTWARE.
  */
 const SUBINBOX = {
-  model: 'gemini-2.5-flash',
+  model: 'gemini-3.5-flash-lite',
   newsletters: 'Subinbox/Newsletters',
   digested: 'Subinbox/Digested',
   maxMessages: 20,
